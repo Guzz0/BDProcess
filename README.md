@@ -1,6 +1,6 @@
 #BD PROCESSING
 
-###La practica de procesamiento de datos de Big Data que utiliza una arquitectura lambda para el procesamiento de datos 
+##La practica de procesamiento de datos de Big Data que utiliza una arquitectura lambda para el procesamiento de datos 
 recolectados desde antenas de telefonía móvil. El proyecto incluye tres capas: Speed Layer, Batch Layer y Serving Layer.
 Las tecnologías utilizadas para cada capa incluyen Spark Structured Streaming, Apache Kafka, Google Compute Engine, Spark SQL, 
 Google Cloud Storage, Google SQL (PostgreSQL). El proyecto utiliza un simulador para enviar información sobre 5 antenas y 20 
@@ -12,7 +12,7 @@ Un simulador de datos es utilizado para producir datos, y la instancia de Google
 
 
 
-NOTA: La practica realizada tuvo problemas (no de codigo) sino al parecer un error en la fecha colocada donde no habian datos. despues de haber usado 2
+###NOTA: La practica realizada tuvo problemas (no de codigo) sino al parecer un error en la fecha colocada donde no habian datos. despues de haber usado 2
 cuentas GCLOUD no logro obtener otra prueba gratis y por motivos personales aun no he podido realizar el superset ni las capturas la cual en la 
 medida de lo posible lo realizare ya que ha sido una de las practicas con la que mas me pelie y que me gusto. Un gran saludo.
 
